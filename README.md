@@ -8,7 +8,7 @@
 - Team scored 2nd place at [SAE Aero Design 2020](https://www.saeaerodesign.com/) in Advance cathegory
 
 ### 🎓 Amateur IT lecturer
-- Organised workshops on my uni: cli, git, linux, containers
+- Organised workshops on my uni: shell, Git, Linux, containers
 - Wrote my own presentation framework for Linux-related tutorials
 
 ### 🐍 Parsertongue (Python - my favourite language)
@@ -17,8 +17,8 @@
 
 ### ⚡ Wide range of random programming knowledge
 - Solid knowledge of:
-    - C++
-    - 
+    - C++ (mainly at work)
+    - Web stack (VueJS + Django) - useful at random occasions
 
 
 <!--
