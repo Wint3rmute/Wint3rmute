@@ -5,7 +5,7 @@
 
 
 ### ✈️ UAV programming enthusiast
-- My student research circle - [Academic Aviation Club](akl.pwr.edu.pl/)
+- My student research circle - [Academic Aviation Club](http://www.akl.pwr.edu.pl/)
 - Team scored 2nd place at [SAE Aero Design 2020](https://www.saeaerodesign.com/) in Advance cathegory
 
 
