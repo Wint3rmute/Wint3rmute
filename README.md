@@ -9,7 +9,7 @@
 
 ### 🎓 Amateur IT lecturer
 - Organised workshops on my uni: shell, Git, Linux, containers
-- Wrote my own presentation framework for Linux-related tutorials
+- Wrote my own [presentation framework](https://github.com/Wint3rmute/it-tools-workshops) for Linux-related tutorials
 
 ### 🐍 Parsertongue (Python - my favourite language)
 - Automation
