@@ -14,7 +14,7 @@
 - Wrote my own [presentation framework](https://github.com/Wint3rmute/it-tools-workshops) for Linux-related tutorials
 
 
-### 🐍 Parsertongue (Python - my favourite language)
+### 🐍 Parsertongue
 - Automation
 - Code generation
 
