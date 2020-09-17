@@ -3,24 +3,31 @@
 - Building embedded Linux distributions at work
 - Maintaining a [few](https://aur.archlinux.org/packages/ardupilot-mission-planner/) [AUR](https://aur.archlinux.org/packages/tnb/) [packages](https://aur.archlinux.org/packages/tiler-bin/) (no big deal tho)
 
+
 ### ✈️ UAV programming enthusiast
 - My student research circle - [Academic Aviation Club](akl.pwr.edu.pl/)
 - Team scored 2nd place at [SAE Aero Design 2020](https://www.saeaerodesign.com/) in Advance cathegory
+
 
 ### 🎓 Amateur IT lecturer
 - Organised workshops on my uni: shell, Git, Linux, containers
 - Wrote my own [presentation framework](https://github.com/Wint3rmute/it-tools-workshops) for Linux-related tutorials
 
+
 ### 🐍 Parsertongue (Python - my favourite language)
 - Automation
 - Code generation
 
+
 ### ⚡ Wide range of random programming knowledge
 - Solid knowledge of:
+    - Linux internals
     - C++ (mainly at work)
     - Web stack (VueJS + Django) - useful at random occasions
-
-
+- I know dozens of random unix tools, I love using the shell
+- Some knowledge of:
+    - Rust (wrote a [few](https://github.com/Wint3rmute/tiler) [utils](https://github.com/Wint3rmute/tnb) in it)
+    - Unity/C# (programmed some small [games](https://marekchoinski.com/consquare/), worked as a game developer for a little while)
 <!--
 **Wint3rmute/Wint3rmute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
