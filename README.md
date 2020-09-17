@@ -1,8 +1,7 @@
-<!-- ### Hi there 👋 -->
-
-### 🐧 Linux Nerd
+### 🐧 Linux nerd
 - Running Arch on an ebook? [Easy](https://github.com/Wint3rmute/arch-linux-on-kindle)
 - Building embedded Linux distributions at work
+- Maintaining a [few](https://aur.archlinux.org/packages/ardupilot-mission-planner/) [AUR](https://aur.archlinux.org/packages/tnb/) [packages](https://aur.archlinux.org/packages/tiler-bin/) (no big deal tho)
 
 ### ✈️ UAV programming enthusiast
 - My student research circle - [Academic Aviation Club](akl.pwr.edu.pl/)
@@ -12,9 +11,14 @@
 - Organised workshops on my uni: cli, git, linux, containers
 - Wrote my own presentation framework for Linux-related tutorials
 
-### 🐍 Parsertongue *(Python)*
+### 🐍 Parsertongue (Python - my favourite language)
 - Automation
 - Code generation
+
+### ⚡ Wide range of random programming knowledge
+- Solid knowledge of:
+    - C++
+    - 
 
 
 <!--
