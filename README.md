@@ -6,11 +6,11 @@
 
 ### ✈️ UAV programming enthusiast
 - My student research circle - [Academic Aviation Club](akl.pwr.edu.pl/)
-- Team scored 2nd place at [SAE Aero Design 2020])(https://www.saeaerodesign.com/) in Advance cathegory
+- Team scored 2nd place at [SAE Aero Design 2020](https://www.saeaerodesign.com/) in Advance cathegory
 
 ### 🎓 Amateur IT lecturer
-- Wrote my own presentation framework for Linux-related tutorials
 - Organised workshops on my uni: cli, git, linux, containers
+- Wrote my own presentation framework for Linux-related tutorials
 
 ### 🐍 Parsertongue *(Python)*
 - Automation
