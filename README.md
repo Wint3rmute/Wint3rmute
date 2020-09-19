@@ -14,9 +14,11 @@
 - Wrote my own [presentation framework](https://github.com/Wint3rmute/it-tools-workshops) for Linux-related tutorials
 
 
-### 🐍 Parsertongue
+### 🐍 Pythonista
+- UAV programming
 - Automation
 - Code generation
+- Web development
 
 
 ### ⚡ Wide range of random programming knowledge
