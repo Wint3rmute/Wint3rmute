@@ -1,5 +1,5 @@
 ### 🐧 Linux nerd
-- Running Arch on an ebook? [Ez](https://github.com/Wint3rmute/arch-linux-on-kindle)
+- Running Arch on an ebook? [Check](https://github.com/Wint3rmute/arch-linux-on-kindle)
 - Building embedded Linux distributions at work
 - Maintaining a [few](https://aur.archlinux.org/packages/ardupilot-mission-planner/) [AUR](https://aur.archlinux.org/packages/tnb/) [packages](https://aur.archlinux.org/packages/tiler-bin/) (no big deal tho)
 
