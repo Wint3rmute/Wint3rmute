@@ -1,6 +1,7 @@
 ### 🛰️ Satellite mission operations programmer
 
 - Telemetry software
+- Automated mission ops
 - Ground stations orchestration
 - Data storage & visualisation
 - CubeSats ftw!
