@@ -1,4 +1,4 @@
-### 🛰️ Satellite mission operations programmer [@SatRevolution](satrevolution.com/)
+### 🛰️ Satellite mission operations programmer [@SatRevolution](http://satrevolution.com/)
 
 - Telemetry software
 - Automated mission ops
