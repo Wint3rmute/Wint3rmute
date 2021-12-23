@@ -1,3 +1,10 @@
+### 🛰️ Satellite mission operations programmer
+
+- Telemetry software
+- Ground stations orchestration
+- Data storage & visualisation
+- CubeSats ftw!
+
 ### 🐧 Linux nerd
 - Running Arch on an ebook? [Check](https://github.com/Wint3rmute/arch-linux-on-kindle)
 - Building embedded Linux distributions at work
