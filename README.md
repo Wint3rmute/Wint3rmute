@@ -5,15 +5,15 @@
 - Data storage & visualisation
 - CubeSats ftw!
 
+### ✈️ UAV programming enthusiast
+- My student research circle - [Academic Aviation Club](http://www.akl.pwr.edu.pl/)
+- Team scored 2nd place at [SAE Aero Design 2020](https://www.saeaerodesign.com/) in Advance cathegory
+
+
 ### 🐧 Linux nerd
 - Running Arch on an ebook? [Check](https://github.com/Wint3rmute/arch-linux-on-kindle)
 - Building embedded Linux distributions at work
 - Maintaining a [few](https://aur.archlinux.org/packages/ardupilot-mission-planner/) [AUR](https://aur.archlinux.org/packages/tnb/) [packages](https://aur.archlinux.org/packages/tiler-bin/) (no big deal tho)
-
-
-### ✈️ UAV programming enthusiast
-- My student research circle - [Academic Aviation Club](http://www.akl.pwr.edu.pl/)
-- Team scored 2nd place at [SAE Aero Design 2020](https://www.saeaerodesign.com/) in Advance cathegory
 
 
 ### 🎓 Amateur IT lecturer
