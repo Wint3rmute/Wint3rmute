@@ -6,9 +6,10 @@
 - Data storage & visualisation
 - CubeSats ftw!
 
-### ✈️ UAV programming enthusiast
-- My student research circle - [Academic Aviation Club](http://www.akl.pwr.edu.pl/)
+### ✈️ UAV programming enthusiast [@Academic Aviation Club](http://www.akl.pwr.edu.pl/)
+- Software team lead
 - Team scored 2nd place at [SAE Aero Design 2020](https://www.saeaerodesign.com/) in Advance cathegory
+- 2nd place at [Droniada 2022](https://www.5zywiolow.pl/)
 
 
 ### 🐧 Linux nerd
