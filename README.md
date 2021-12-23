@@ -1,6 +1,6 @@
 ### 🛰️ Satellite mission operations programmer [@SatRevolution](http://satrevolution.com/)
 
-- Telemetry software
+- Mission operations software lead
 - Automated mission ops
 - Ground stations orchestration
 - Data storage & visualisation
