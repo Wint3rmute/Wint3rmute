@@ -25,8 +25,7 @@
 ### 🐍 Pythonista
 - UAV programming
 - Automation
-- Code generation
-- Web development
+- All things backend
 
 
 ### ⚡ Wide range of random programming knowledge
