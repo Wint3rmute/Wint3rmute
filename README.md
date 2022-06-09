@@ -1,9 +1,9 @@
 ### 🛰️ Satellite mission operations programmer [@SatRevolution](http://satrevolution.com/)
 
 - Mission operations software lead
-- Automated mission ops
+- Satellite operations automation
 - Ground stations orchestration
-- Data storage & visualisation
+- Data/Telemetry storage & visualisation
 - CubeSats ftw!
 
 ### ✈️ UAV programming enthusiast [@Academic Aviation Club](http://www.akl.pwr.edu.pl/)
