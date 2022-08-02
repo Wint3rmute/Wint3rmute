@@ -7,7 +7,7 @@
 - CubeSats ftw!
 
 ### ✈️ UAV programming enthusiast [@Academic Aviation Club](http://www.akl.pwr.edu.pl/)
-- Software team lead (2019-2021)
+- Software team lead (2019-2022)
 - Team scored 2nd place at [SAE Aero Design 2020](https://www.saeaerodesign.com/) in Advance cathegory
 - 2nd place at [Droniada 2022](https://www.5zywiolow.pl/)
 
