@@ -4,7 +4,14 @@
 - Satellite operations automation
 - Ground stations orchestration
 - Data/Telemetry storage & visualisation
-- CubeSats ftw!
+- 8 cubesats on orbit and counting!
+
+
+### 🎵 Aspiring audio programmer (in my free time)
+
+- Building a [software synthesizer](https://github.com/Wint3rmute/nosna) 
+- Fascinated with computer-aided music creation/generation
+
 
 ### ✈️ UAV programming enthusiast [@Academic Aviation Club](http://www.akl.pwr.edu.pl/)
 - Software team lead (2019-2022)
