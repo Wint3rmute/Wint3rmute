@@ -7,7 +7,7 @@
 - 8 cubesats on orbit and counting!
 
 
-### 🎵 Aspiring audio programmer (in my free time)
+### 🎵 Aspiring audio programmer
 
 - Building a [software synthesizer](https://github.com/Wint3rmute/nosna) in my spare time
 - Writing a [collaborative sampler](https://github.com/Wint3rmute/libretakt) for a university project
