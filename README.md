@@ -24,7 +24,7 @@
 ### 🐧 Linux nerd
 - Running Arch on an ebook? [Check](https://github.com/Wint3rmute/arch-linux-on-kindle)
 - Building embedded Linux distributions at work
-- Maintaining a [few](https://aur.archlinux.org/packages/ardupilot-mission-planner/) [AUR](https://aur.archlinux.org/packages/tnb/) [packages](https://aur.archlinux.org/packages/tiler-bin/) (no big deal tho)
+- Maintaining a [few](https://aur.archlinux.org/packages/ardupilot-mission-planner/) [AUR](https://aur.archlinux.org/) [packages](https://aur.archlinux.org/packages/tnb/) (no big deal tho)
 - Getting to know NixOS, you should try it too :)
 
 
@@ -48,8 +48,6 @@
 - Some knowledge of:
     - Rust (wrote a [few](https://github.com/Wint3rmute/tiler) [utils](https://github.com/Wint3rmute/tnb) in it)
     - Unity/C# (programmed some small [games](https://marekchoinski.com/consquare/), worked as a game developer for a little while)
-
-[![Wint3rmute's github stats](https://github-readme-stats.vercel.app/api?username=wint3rmute&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
     
 <!--
 **Wint3rmute/Wint3rmute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
