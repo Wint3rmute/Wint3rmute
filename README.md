@@ -11,7 +11,7 @@
 
 - Building a [software synthesizer](https://github.com/Wint3rmute/nosna) in my spare time
 - Writing a [collaborative sampler](https://github.com/Wint3rmute/libretakt) for a university project
-- Working on AI-aided sound synthesis for my masters thesis (*todo*: add more details once the repo is polished enough)
+- Working on AI-aided sound synthesis for my [masters thesis](https://github.com/Wint3rmute/luthier)
 - Fascinated with computer-aided music creation/generation
 
 
