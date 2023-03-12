@@ -12,7 +12,7 @@
 - Building a [software synthesizer](https://github.com/Wint3rmute/nosna) in my spare time
 - Writing a [collaborative sampler](https://github.com/Wint3rmute/libretakt) for a university project
 - Working on AI-aided sound synthesis for my [masters thesis](https://github.com/Wint3rmute/luthier)
-- Fascinated with computer-aided music creation/generation
+- Fascinated with generative art
 
 
 ### ✈️ UAV programming enthusiast [@Academic Aviation Club](http://www.akl.pwr.edu.pl/)
