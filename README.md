@@ -28,6 +28,7 @@ frontends I'm hosting:
 - [Better YouTube](https://invidious.baczek.me)
 - [Better Google](https://searx.baczek.me)
 - [Better Reddit](https://libreddit.baczek.me)
+- [Alternative frontend for my brain](https://baczek.me) aka *personal website*
 
 ### 🐧 Linux nerd
 - Running Arch on an ebook? [Check](https://github.com/Wint3rmute/arch-linux-on-kindle)
