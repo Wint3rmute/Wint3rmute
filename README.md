@@ -1,4 +1,4 @@
-### 🛰️ Satellite mission operations programmer [@SatRev](http://satrev.space/)
+### 🛰️ Mission Control software developer [@SatRev](http://satrev.space/)
 
 - Mission operations software lead
 - Satellite operations automation
