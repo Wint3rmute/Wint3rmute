@@ -15,20 +15,21 @@
 - Fascinated with generative art
 
 
-### ✈️ UAV programming enthusiast [@Academic Aviation Club](http://www.akl.pwr.edu.pl/)
-- Software team lead (2019-2022)
-- Team scored 2nd place at [SAE Aero Design 2020](https://www.saeaerodesign.com/) in Advance cathegory
-- 2nd place at [Droniada 2022](https://www.5zywiolow.pl/)
-
 ### 🔐 Privacy enjoyer
 
-Take a look at the alternative
-frontends I'm hosting:
+Take a look at the alternative frontends I'm hosting:
 
 - [Better YouTube](https://invidious.baczek.me)
 - [Better Google](https://searx.baczek.me)
 - [Better Reddit](https://libreddit.baczek.me)
 - [Alternative frontend for my brain](https://baczek.me) aka *personal website*
+
+
+### ✈️ UAV programming enthusiast [@Academic Aviation Club](http://www.akl.pwr.edu.pl/)
+- Software team lead (2019-2022)
+- Team scored 2nd place at [SAE Aero Design 2020](https://www.saeaerodesign.com/) in Advance cathegory
+- 2nd place at [Droniada 2022](https://www.5zywiolow.pl/)
+
 
 ### 🐧 Linux nerd
 - Running Arch on an ebook? [Check](https://github.com/Wint3rmute/arch-linux-on-kindle)
@@ -51,18 +52,3 @@ frontends I'm hosting:
 - Some knowledge of:
     - Rust (wrote a [few](https://github.com/Wint3rmute/tiler) [utils](https://github.com/Wint3rmute/tnb) in it)
     - Unity/C# (programmed some small [games](https://marekchoinski.com/consquare/), worked as a game developer for a little while)
-    
-<!--
-**Wint3rmute/Wint3rmute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
