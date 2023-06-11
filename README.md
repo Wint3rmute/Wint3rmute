@@ -33,12 +33,6 @@
 - Wrote my own [presentation framework](https://github.com/Wint3rmute/it-tools-workshops) for Linux-related tutorials
 
 
-### 🐍 Pythonista
-- UAV programming
-- Automation
-- All things backend
-
-
 ### ⚡ Wide range of random programming knowledge
 - Solid knowledge of:
     - Linux internals
