@@ -20,6 +20,14 @@
 - Team scored 2nd place at [SAE Aero Design 2020](https://www.saeaerodesign.com/) in Advance cathegory
 - 2nd place at [Droniada 2022](https://www.5zywiolow.pl/)
 
+### 🔐 Privacy enjoyer
+
+Take a look at the alternative
+frontends I'm hosting:
+
+- [Better YouTube](https://invidious.baczek.me)
+- [Better Google](https://searx.baczek.me)
+- [Better Reddit](https://libreddit.baczek.me)
 
 ### 🐧 Linux nerd
 - Running Arch on an ebook? [Check](https://github.com/Wint3rmute/arch-linux-on-kindle)
