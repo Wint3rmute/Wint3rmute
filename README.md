@@ -21,7 +21,7 @@
 Take a look at the alternative frontends I'm hosting:
 
 - [Better YouTube](https://invidious.baczek.me)
-- [Better](https://libreddit.baczek.me) [Google](https://searx.baczek.me)
+- [Better](https://librey.baczek.me) [Google](https://searx.baczek.me)
 - [Better Reddit](https://libreddit.baczek.me)
 - [Alternative frontend for my brain](https://baczek.me) aka *personal website*
 
