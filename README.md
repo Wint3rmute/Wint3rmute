@@ -68,11 +68,5 @@ Yeah I should probably share my [NixOS](https://nixos.org/) homelab configuratio
 - Solid knowledge of:
   - Linux internals
   - Linux administration & networking
-  - Web stack (React + Fastapi) - useful at random occasions
 - I love using the shell, see my configuration
   [here](https://github.com/Wint3rmute/dotfiles)
-- Some knowledge of:
-  - Unity/C# (programmed some small
-    [games](https://marekchoinski.com/consquare/), worked as a game developer
-    for a little while)
-  - C/C++ - mostly for work
