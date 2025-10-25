@@ -12,6 +12,10 @@
 - Participating in Poland's highest-value satellite reconnaissance defense
   contract - [Mikroglob](https://creotech.pl/news/agreement-for-the-delivery-of-the-satellite-earth-observation-system-under-the-mikroglob-program/)
 
+## 🔐 Homelabber (but purely functional)
+
+Yeah I should probably share my [NixOS](https://nixos.org/) homelab configuration here some day...
+
 # ⏳ Past Experiences
 
 ### 2020-2023 - [SatRev](http://satrev.space/)
@@ -34,9 +38,6 @@
   thesis](https://github.com/Wint3rmute/luthier)
 - Fascinated with generative art
 
-## 🔐 Privacy enjoyer
-
-Yeah I should probably share my [NixOS](https://nixos.org/) homelab configuration here some day...
 
 ## ✈️ UAV programming enthusiast [@Academic Aviation Club](http://www.akl.pwr.edu.pl/)
 
