@@ -12,6 +12,8 @@
 - Participating in Poland's highest-value satellite reconnaissance defense
   contract - [Mikroglob](https://creotech.pl/news/agreement-for-the-delivery-of-the-satellite-earth-observation-system-under-the-mikroglob-program/)
 
+# ⏳ Past Experiences
+
 ### 2020-2023 - [SatRev](http://satrev.space/)
 
 - 2022-2023 - Lead Mission Control Software Developer
@@ -22,7 +24,7 @@
 - Data/Telemetry storage & visualisation
 - 8 cubesats on orbit and counting!
 
-## 🎵 Aspiring audio programmer
+## 🎵 Audio Programming
 
 - Building a [software synthesizer](https://github.com/Wint3rmute/nosna) in my
   spare time
